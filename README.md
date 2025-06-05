@@ -1,1 +1,1 @@
-# AI-Powered-Understand-Helper
+# AI Flashcards Generator
